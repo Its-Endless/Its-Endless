@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shubhang Gupta</h1>
 <h3 align="center">A passionate software engineer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2LeYg8nDATMrj3958vN67T&ust=1717321407995000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNClqf6OuoYDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-endless&label=Profile%20views&color=0e75b6&style=flat" alt="its-endless" /> </p>
 
