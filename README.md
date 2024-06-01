@@ -27,7 +27,7 @@
   </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" alt="cplusplus" width="80"/> 
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="80"/> 
   </a> 
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
