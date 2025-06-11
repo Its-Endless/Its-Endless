@@ -45,17 +45,42 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 Object Detection (YOLO)
+Real-time object detection system using the YOLO (You Only Look Once) model for high-speed and accurate recognition in images and videos.  
+[🔗 GitHub Repo](https://github.com/Its-Endless/object_detection_YOLO)
+
+### 🏦 Zerodha Clone
+A front-end clone of Zerodha's trading platform, built with modern web technologies to replicate its UI and basic user experience.  
+[🔗 GitHub Repo](https://github.com/Its-Endless/zerodha_AD)
+
+---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Its-Endless&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Its-Endless&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Endless&theme=dark&hide_border=false&layout=compact)
 
-#### 🐍 GitHub Activity Snake:
+---
+
+## 🐍 GitHub Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Its-Endless/Its-Endless/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Its-Endless/Its-Endless/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Its-Endless/Its-Endless/output/github-snake.svg" />
 </picture>
+
+---
+
+## 📈 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Its-Endless&theme=react-dark)](https://github.com/Its-Endless)
+
+---
+
+## 📝 Blog Posts *(Coming Soon)*
+- *How I Built an AI-Powered Mental Health Tool*  
+- *Using GeoAnalytics for Healthcare Access*
 
 ---
 
@@ -69,5 +94,7 @@
 
 ---
 
+## 📊 Profile Badges
+![Profile Views](https://komarev.com/ghpvc/?username=Its-Endless&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Its-Endless?label=Follow&style=social)
 [![](https://visitcount.itsvg.in/api?id=Its-Endless&icon=0&color=0)](https://visitcount.itsvg.in)
-
